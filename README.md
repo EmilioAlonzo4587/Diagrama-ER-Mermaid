@@ -115,7 +115,3 @@ erDiagram
     LIBRO ||--o{ DETALLE_PEDIDO : "incluye"
     LIBRO ||--o{ LIBRO_CATEGORIA : "pertenece a"
     CATEGORIA ||--o{ LIBRO_CATEGORIA : "agrupa"
-
-
-
-![Diagrama ER](Diagrama_ER.svg)
